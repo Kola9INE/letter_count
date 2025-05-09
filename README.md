@@ -5,5 +5,5 @@
 * A script was extract the frequency per english letters in the document.
 * Another script was written to visualize the result as a bar plot.
 
-# DID YOU KNOW THE LETTER 'e' HAPPENS TO BE THE MOST FREQUENT (IRRESPECTIVE OF THE DOCUMENT), FOLLOWED BY 'a' and 't' ('a' might come second or third, same with 't').
+# DID YOU KNOW THE LETTER 'e' HAPPENS TO BE THE MOST FREQUENT (IRRESPECTIVE OF THE DOCUMENT), FOLLOWED BY 'a' and 't' ('a' might come second or third, same with 't')?
 *For maximum result, use a text of at least 10,000 characters or 50 pages.
